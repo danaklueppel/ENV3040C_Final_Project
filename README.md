@@ -3,3 +3,4 @@ Final project for Computation Methods in Environmental Engineering- Ammonia Emis
 
 # File List
 Klueppel_Dana_final_Project.ipynb: Jupyter notebook containing final project.
+projectdata.xlsx: Data from source used for project.
